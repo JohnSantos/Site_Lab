@@ -1,0 +1,119 @@
+body
+{
+    margin: 0;
+}
+
+div#menu p
+{
+    float: right;
+    padding-right: 2vw;
+    padding-left: 1vw;
+    font-size: 80%;
+    font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
+    font-size: 100%;
+}
+
+div#header
+{
+    padding-right: 10vw;
+    background-image: url("Imagem1.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 65vh
+}
+
+div#presentation
+{
+    padding-left: 22vw;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
+    font-size: 350%;
+    padding-top: 15vw;
+}
+
+hr
+{
+    margin-top: -24vh;
+    margin-bottom: 25vh;
+}
+
+div#Apresentacao
+{
+    background-color: darkred;
+    height: 70vh;
+}
+
+div#titpres
+{
+
+    text-align: center;
+    color: white;
+    text-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
+    font-size: 280%;
+    font-weight: bold;
+    padding-top: 2vw;
+}
+
+div#contpres
+{
+    padding-left: 10vh;
+    font-size: 110%;
+    font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
+    color: white;
+
+
+}
+
+div#contpres img
+{
+    float: right;
+    padding-right: 10vw;
+    padding-bot: 10vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+
+}
+
+div#titequi
+{
+    text-align: center;
+    color: black;
+    text-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
+    font-size: 280%;
+    font-weight: bold;
+    padding-top: 2vw;
+
+}
+
+div#Manuel
+{
+    float: right;
+    padding-left: 19vw;
+    padding-right: 19vw;
+    padding-top: 1vh;
+}
+
+div#Cristina
+{
+    float: right;
+    padding-left: 19vw;
+    padding-right: 19vw;
+    padding-top: 1vh;
+}
+
+div#Manuel img
+{
+    border:1px solid;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+}
+div#Cristina img
+{
+    border:1px solid;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+}
